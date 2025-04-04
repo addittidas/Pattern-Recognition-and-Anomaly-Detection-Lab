@@ -20,8 +20,8 @@ This repository contains the lab exercises for the subject **Pattern Recognition
 | 5  | Polynomial Regression |
 | 6  | Support Vector Machines |
 | 7  | Local Outlier Factors |
-<!--| 8  | Decision Trees |
-| 9  | Random Forests |
+| 8  | Decision Trees |
+<!--| 9  | Random Forests |
 | 10 | Isolated Random Forest |
 | 11 | Principal Component Analysis |
 | 12 | Density-Based Spatial Clustering | -->
