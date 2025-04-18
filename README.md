@@ -22,9 +22,7 @@ This repository contains the lab exercises for the subject **Pattern Recognition
 | 7  | Local Outlier Factors |
 | 8  | Decision Trees |
 | 9  | Random Forests |
-<!--| 10 | Isolated Random Forest |
-| 11 | Principal Component Analysis |
-| 12 | Density-Based Spatial Clustering | -->
+| 10 | Isolated Random Forest |
 
 ## 🚀 How to Use
 1. Clone this repository:
