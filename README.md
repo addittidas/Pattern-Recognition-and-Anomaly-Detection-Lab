@@ -1,7 +1,7 @@
 # Pattern-Recognition-and-Anomaly-Detection-Lab
 
 ## 📌 About This Repository
-This repository contains the lab exercises for the subject **Pattern Recognition and Anomaly Detection**. Each experiment covers fundamental machine learning techniques, focusing on data analysis, classification, regression, and clustering methods.
+This repository contains the lab exercises for the subject **Pattern Recognition and Anomaly Detection**, Sem-VI, 2025. Each experiment covers fundamental machine learning techniques, focusing on data analysis, classification, regression, and clustering methods.
 
 ## 🛠️ Prerequisites
 - **Anaconda** 
